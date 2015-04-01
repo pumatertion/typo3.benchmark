@@ -1,0 +1,8 @@
+-
+  name: 'Hello world screen'
+  uriPattern: 'index.php/flow/benchmark'
+  defaults:
+    '@package':    'TYPO3.Benchmark'
+    '@controller': 'Standard'
+    '@action':     'index'
+    '@format':     'html'
